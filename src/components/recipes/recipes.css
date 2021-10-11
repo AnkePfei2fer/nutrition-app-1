@@ -14,19 +14,19 @@
   gap: 0.4rem;
 }
 
-.recipes__text--kcal {
+.recipes__kcal {
   font-size: 0.75rem;
   color: var(--color-primary);
   font-weight: 600;
   margin: 0;
 }
 
-.recipes__text--title {
+.recipes__title {
   line-height: 1.4rem;
   margin: 0;
 }
 
-.recipes__text--ingredients {
+.recipes__ingredients {
   font-size: 0.75rem;
   color: #767676;
   font-weight: 300;

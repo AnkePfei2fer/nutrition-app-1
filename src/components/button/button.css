@@ -1,29 +1,8 @@
-.tracking {
-  width: 20rem;
-  height: 5.5rem;
-  display: grid;
-  grid-template-columns: 60% 40%;
-  border-radius: 1.5rem;
-  background: #C6C4DE;
-  align-items: center;
-}
-
-.tracking__text {
-  font-size: 1.1rem;
+.btn {
+  border-radius: 20px;
+  font-size: 1.2rem;
   color: white;
-  margin: 1.2rem 1.7rem 1.2rem 2rem;
-  line-height: 1.6rem;
-}
-
-.tracking__viewNow {
-  width: 6.1rem;
-  display: grid;
-  grid-template-columns: 80% 20%;
-  height: 2rem;
-  border-radius: 0.5rem;
+  background: var(--color-primary);
   border: none;
-  color: #C6C4DE;
-  font-size: 0.75rem;
-  background: white;
-  align-items: center;
+  padding: 10px 40px;
 }

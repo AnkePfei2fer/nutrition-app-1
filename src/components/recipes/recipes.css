@@ -1,10 +1,9 @@
 .recipes {
   position: relative;
-  height: 7.5rem;
-  width: 19.6rem;
   border-radius: 1rem;
-  padding-left: 1.5rem;
+  padding: 1.75rem;
   display: grid;
+  gap: 1rem;
   grid-template-columns: 30% 70%;
   place-items: center;
   background-color: var(--color-primary-light);

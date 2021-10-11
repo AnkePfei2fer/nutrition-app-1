@@ -27,7 +27,8 @@ input,
 button,
 select,
 optgroup,
-textarea {
+textarea,
+p {
   margin: 0;
   font-family: var(--font-family);
 }

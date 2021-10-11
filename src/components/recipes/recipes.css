@@ -6,7 +6,7 @@
   gap: 1rem;
   grid-template-columns: 30% 70%;
   place-items: center;
-  background-color: var(--color-primary-light);
+  background-color: var(--background-card);
 }
 
 .recipes__text {

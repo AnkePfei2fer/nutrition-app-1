@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap');
-
 .recipes {
   position: relative;
   height: 7.5rem;
@@ -32,12 +30,12 @@
 
 .recipes__text--ingredients {
   font-size: 0.75rem;
-   color: #767676;
-   font-weight: 300;
+  color: #767676;
+  font-weight: 300;
   margin: 0;
 }
 
-.recipes__heart{
+.recipes__heart {
   position: absolute;
   right: 1.1rem;
   top: 1.1rem;
